@@ -128,7 +128,7 @@ export default function Index() {
           timerState={state.timerState}
           onClick={handleClick}
         />
-        <audio id="beep" ref={audioRef} src="beep.mp3" />
+        <audio id="beep" ref={audioRef} src="/beep.mp3" />
       </section>
     </main>
   );

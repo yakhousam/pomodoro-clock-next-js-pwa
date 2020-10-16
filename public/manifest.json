@@ -4,7 +4,7 @@
   "description": "Nextjs using service worker via next-offline",
   "icons": [
     {
-      "src": "/static/pwa.png",
+      "src": "/static/tomato.png",
       "sizes": "192x192",
       "type": "image/png"
     }
